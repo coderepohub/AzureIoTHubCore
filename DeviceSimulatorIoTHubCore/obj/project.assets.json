@@ -5567,7 +5567,7 @@
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.Azure.Devices.Client >= 1.19.0",
       "Microsoft.NETCore.App >= 2.2.0",
-      "NewtonSoft.Json"
+      "NewtonSoft.Json >= 12.0.1"
     ]
   },
   "packageFolders": {
@@ -5621,7 +5621,7 @@
           },
           "NewtonSoft.Json": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[12.0.1, )"
           }
         },
         "imports": [

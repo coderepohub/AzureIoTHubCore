@@ -1,0 +1,11 @@
+F:\coderepo\vscoderepo\azure_iot_core\DeviceSimulator\DeviceSimulatorIoTHubCore\bin\Debug\netcoreapp2.2\DeviceSimulatorIoTHubCore.deps.json
+F:\coderepo\vscoderepo\azure_iot_core\DeviceSimulator\DeviceSimulatorIoTHubCore\bin\Debug\netcoreapp2.2\DeviceSimulatorIoTHubCore.runtimeconfig.json
+F:\coderepo\vscoderepo\azure_iot_core\DeviceSimulator\DeviceSimulatorIoTHubCore\bin\Debug\netcoreapp2.2\DeviceSimulatorIoTHubCore.runtimeconfig.dev.json
+F:\coderepo\vscoderepo\azure_iot_core\DeviceSimulator\DeviceSimulatorIoTHubCore\bin\Debug\netcoreapp2.2\DeviceSimulatorIoTHubCore.dll
+F:\coderepo\vscoderepo\azure_iot_core\DeviceSimulator\DeviceSimulatorIoTHubCore\bin\Debug\netcoreapp2.2\DeviceSimulatorIoTHubCore.pdb
+F:\coderepo\vscoderepo\azure_iot_core\DeviceSimulator\DeviceSimulatorIoTHubCore\obj\Debug\netcoreapp2.2\DeviceSimulatorIoTHubCore.csprojAssemblyReference.cache
+F:\coderepo\vscoderepo\azure_iot_core\DeviceSimulator\DeviceSimulatorIoTHubCore\obj\Debug\netcoreapp2.2\DeviceSimulatorIoTHubCore.csproj.CoreCompileInputs.cache
+F:\coderepo\vscoderepo\azure_iot_core\DeviceSimulator\DeviceSimulatorIoTHubCore\obj\Debug\netcoreapp2.2\DeviceSimulatorIoTHubCore.AssemblyInfoInputs.cache
+F:\coderepo\vscoderepo\azure_iot_core\DeviceSimulator\DeviceSimulatorIoTHubCore\obj\Debug\netcoreapp2.2\DeviceSimulatorIoTHubCore.AssemblyInfo.cs
+F:\coderepo\vscoderepo\azure_iot_core\DeviceSimulator\DeviceSimulatorIoTHubCore\obj\Debug\netcoreapp2.2\DeviceSimulatorIoTHubCore.dll
+F:\coderepo\vscoderepo\azure_iot_core\DeviceSimulator\DeviceSimulatorIoTHubCore\obj\Debug\netcoreapp2.2\DeviceSimulatorIoTHubCore.pdb
